@@ -1,5 +1,7 @@
 ### 👋 Hi, I'm Yusuf Scott
 
+Platform & DevOps engineer at [Liatrio](https://www.liatrio.com) — building on Kubernetes, Terraform, and AWS.
+
 #### Public repositories
 
 [![liatrio · HCL](https://img.shields.io/badge/liatrio-HCL-844FBA?style=for-the-badge&logo=terraform&logoColor=white)](https://github.com/yusufscott/liatrio)
