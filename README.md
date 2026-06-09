@@ -1,0 +1,17 @@
+### 👋 Hi, I'm Yusuf Scott
+
+#### Public repositories
+
+[![liatrio · HCL](https://img.shields.io/badge/liatrio-HCL-844FBA?style=for-the-badge&logo=terraform&logoColor=white)](https://github.com/yusufscott/liatrio)
+&nbsp;
+[![telegram-test-bot · Python](https://img.shields.io/badge/telegram--test--bot-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/yusufscott/telegram-test-bot)
+
+<!--
+  This is my GitHub profile README (repo name == username, public so it renders
+  on my profile). Only PUBLIC repositories are listed above — private repo names
+  are intentionally omitted. To add a repo when it goes public, copy a badge line:
+
+  [![<name> · <lang>](https://img.shields.io/badge/<name>-<lang>-<hex>?style=for-the-badge&logo=<simple-icons-slug>&logoColor=white)](https://github.com/yusufscott/<name>)
+
+  Note: escape hyphens in the badge label as `--` (e.g. telegram--test--bot).
+-->
